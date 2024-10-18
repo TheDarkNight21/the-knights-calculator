@@ -29,7 +29,7 @@ Welcome to **The Knight's Calculator**! This is a command-line calculator built 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/knights-calculator.git
+   git clone https://github.com/TheDarkNight21/the-knights-calculator.git
    cd knights-calculator
 2.	Open the project in Xcode:
    open knights-calculator.xcodeproj
