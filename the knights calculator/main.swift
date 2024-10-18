@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  calculator
+//  the knights calculator
 //
 //  Created by Faris Allaf on 10/18/24.
 //
